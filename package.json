@@ -1,0 +1,19 @@
+{
+  "name": "servidorglobant",
+  "version": "1.0.0",
+  "description": "configuracion de mi proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keuwords": [
+    "API",
+    "globant",
+    "cesde"
+  ],
+  "author": "Juana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
